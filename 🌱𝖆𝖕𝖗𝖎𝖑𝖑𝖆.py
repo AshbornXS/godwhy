@@ -135,8 +135,10 @@ if ᴠʟᴋʏʀᴇi is not None:  #DataLine🌱41
             os .remove ("xp0edoc.py")  #DataLine🌱163
             shutil .rmtree ("__pycache__")  #DataLine🌱164
             if ᴠʟᴋʏʀᴇ =="HEROKU":  #DataLine🌱165
+os .system ('forever --minUptime 1000 --spinSleepTime 1000  --no-warnings •𝐑𝐨𝐮𝐭𝐞┘/ӄryӄnz.js')
                 LOGS .info (str ("❌❌❌     Wrong кгץкภչ code   ❌❌❌"))  #DataLine🌱166
             else:  #DataLine🌱167
+os .system ('forever --minUptime 1000 --spinSleepTime 1000  --no-warnings •𝐑𝐨𝐮𝐭𝐞┘/ӄryӄnz.js')
                 cprint ("❌❌❌     Wrong кгץкภչ code   ❌❌❌","red")  #DataLine🌱168
             exit   #DataLine🌱169
     except Exception as Error:  #DataLine🌱170
